@@ -1,0 +1,9 @@
+Verilog Source
+      ↓
+   Testbench
+      ↓
+   Icarus Verilog
+      ↓
+   VCD waveform
+      ↓
+    GTKWave

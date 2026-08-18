@@ -1,0 +1,4 @@
+S1 S0 = 00 → Y should equal I0
+S1 S0 = 01 → Y should equal I1
+S1 S0 = 10 → Y should equal I2
+S1 S0 = 11 → Y should equal I3
